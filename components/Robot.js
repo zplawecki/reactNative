@@ -5,7 +5,7 @@ export default class Robot extends Component {
     render() {
         return (
             <View>
-                <Image style={{width: 50, height: 50}} source={ {uri: 'https://images-na.ssl-images-amazon.com/images/I/41oq-2oDKRL._SY300_QL70_.jpg'} } />
+                <Image style={{width: 300, height: 300}} source={ {uri: 'https://images-na.ssl-images-amazon.com/images/I/41oq-2oDKRL._SY300_QL70_.jpg'} } />
             </View>
         );
     }
